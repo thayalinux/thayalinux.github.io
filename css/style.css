@@ -353,8 +353,8 @@ div#top-nav #fixed-nav li.current a {
 	border-bottom: 1px solid #e1e1e1;
 	display: inline-block;
 	width: 100%;
-	margin-top: 50px;
-	height: 150px;
+	margin-top: 10px;
+	height: 50px;
 }
 .home .hero{
 	margin-top: 0px;
