@@ -341,7 +341,7 @@ div#top-nav #fixed-nav li.current a {
 }
 /* Slogan & Banners ------------------------------------------ */
 .slogan{
-	height: 60%;
+	height: 100%;
 	text-align: center;
 	width: 100%;
 }
